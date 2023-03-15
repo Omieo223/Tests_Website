@@ -4,7 +4,7 @@
 
 
 ## General info
-This project is simple website about index BMI and with calculator BMI.
+This project is simple website about index BMI with calculator BMI.
 <br>
 User can log in serwis, can calculate his index BMI and check result on tabel.
 <br>
