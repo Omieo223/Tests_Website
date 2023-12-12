@@ -2,7 +2,8 @@
 ## Table of contents
 
 *  Test page https://omieo223.github.io/website_DietPage/
-* [INFO](#about-page)
+* [INFO about page](#about-page)
+* [INFO about tests](#about-tests)
 
 
 ## about page
